@@ -1,3 +1,6 @@
+import {headerMenus, searchKeyword, snslink} from '../../data/header'
+
+
 import React from 'react'
 
 const Main = () => {
