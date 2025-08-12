@@ -62,7 +62,7 @@ export const searchKeyword =[
     },
     {
         title: "CSS",
-        src: "/css"
+        src: "/search/css"
     },
     {
         title: "Javascript",
